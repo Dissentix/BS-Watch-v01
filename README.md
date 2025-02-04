@@ -13,7 +13,7 @@ Dissentix is designed to streamline and enhance the reconnaissance process for b
 Clone the repository and start using Dissentix to level up your recon game!  
 
 ```bash
-git clone https://github.com/Dissentix/Dissentix.git
+git clone https://github.com/Dissentix/BS-Watch-v01.git
 ```
 
 ## 🤝 Contribute  
