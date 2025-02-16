@@ -1,26 +1,28 @@
-#Install Python3
+Install Python3
 
-#Python libraries :
+Python Libraries Required:
 
-colorama
-pytz
-discord-webhook
+- colorama
+- pytz
+- discord-webhook
 
+Required Tools:
 
-#The tools you need to install :
-
-subfinder :
+1. subfinder:
+To install subfinder, run the following command:
 
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 
-dnsx :
+2. dnsx:
+To install dnsx, run the following command:
 
 go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 
-httpx :
+3. httpx:
+To install httpx, run the following command:
 
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 
-#attention !
+Attention!
 
-#If you put both BS-Watch and resolvers directories together with all their contents in the /root/ path, all the codes will work correctly, but if you have other conditions... Check and change the codes in these two directories according to your needs
+For the tool to work correctly, ensure that both the BS-Watch and resolvers directories, along with all their contents, are located in the /root/ path. If your setup differs, please review and adjust the paths in the relevant directories to suit your needs.
