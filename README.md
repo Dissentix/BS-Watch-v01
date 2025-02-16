@@ -31,7 +31,7 @@ Your feedback and suggestions are invaluable!
 Feel free to open issues or submit pull requests to improve the project.  
 
 ## Example Discord Output  
-Hereâ€™s an example of the output you will receive in your Discord channel, in sequence:
+An example of the output you will receive in your Discord channel, in sequence:
 
 ---
 
