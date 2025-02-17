@@ -1,8 +1,8 @@
 # BS-Watch
 
-# Dissentix - Comprehensive Reconnaissance for Bug Bounty Hunters  
+# Comprehensive Reconnaissance for Bug Bounty Hunters  
 
-Dissentix is designed to streamline and enhance the reconnaissance process for bug bounty hunting.  
+This project is developed by Dissentix and the Believe Sec team to streamline and enhance the reconnaissance process for bug bounty hunting.  
 
 ## 🚀 Features  
 - Efficient and automated reconnaissance  
