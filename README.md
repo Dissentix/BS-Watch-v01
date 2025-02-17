@@ -20,7 +20,7 @@ git clone https://github.com/Dissentix/BS-Watch-v01.git
 ## 🔥 How It Works  
 1. **Subdomain Discovery:** BS-Watch starts by discovering subdomains for the given target.  
 2. **DNS Resolution:** The discovered subdomains are then resolved to identify active assets.  
-3. **WEB SERVICE Discovery:** Finally, BS-Watch performs HTTP and Https discovery to identify live services.  
+3. **Web Service Discovery:** Finally, BS-Watch performs HTTP and HTTPS discovery to identify live services.  
 4. **Fresh Assets:** All fresh assets found online are then sent directly to your Discord channel.  
 
 ## ⭐️ Support Me!  
